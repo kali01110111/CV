@@ -1,0 +1,21 @@
+Skills
+novice(1)-proficient(10)
+
+Wet Lab             Skill Level          Note
+1. Pipetting            (7)              
+2. Western Blot         (2)
+3. CD                   (4)
+4. Cell Culture         (2)
+5. Protein Folding      (3)
+
+Engineering
+1. CAD(Nx)              (4)
+2. Wielding             (3)
+3. Machine Shop         (2)
+4. Soldering            (1)
+
+Coding
+1. Arduino              (2)
+3. Matlab               (3)
+4. R                    (3)
+5. 
